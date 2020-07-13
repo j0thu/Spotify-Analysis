@@ -3,9 +3,9 @@
 Exploratory Data Analysis on Spotify Song Attributes Dataset
 
 Libraries used:
-Numpy
-Pnadas
-Matplotlib
-Saaborm
+Numpy <br>
+Pandas <br>
+Matplotlib<br>
+Seaborn
 
 Datset: Kaggle
