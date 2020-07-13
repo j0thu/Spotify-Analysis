@@ -2,7 +2,7 @@
 
 Exploratory Data Analysis on Spotify Song Attributes Dataset
 
-Libraries used:
+Libraries used: <br>
 Numpy <br>
 Pandas <br>
 Matplotlib<br>
